@@ -52,10 +52,10 @@ const Footer = () => {
                 CONTACT
               </h2>
               <p className="text-gray-400 text-sm">
-                Email: <span className="text-white">ms5901562@gmail.com</span>
+                Email: <span className="text-white">mahamteddy@gmail.com</span>
               </p>
               <p className="text-gray-400 text-sm">
-                Phone: <span className="text-white">03420032995</span>
+                Phone: <span className="text-white">03322304830</span>
               </p>
             </div>
 
